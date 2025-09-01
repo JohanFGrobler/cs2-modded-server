@@ -118,7 +118,7 @@
 		},
 		"Only Headshot": {
 			"Enabled": true,
-			"Default value": false,
+			"Default value": true,
 			"Only for VIP": false,
 			"Command Shortcuts": [
 				"hs",
