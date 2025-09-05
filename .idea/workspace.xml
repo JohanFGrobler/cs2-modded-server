@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7da3fc09-bc4c-4ea3-8c93-20b8f5230088" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/docker-image.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/admin_groups.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/admin_groups.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/plugins/CS2-CustomVotes/CS2-CustomVotes.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/plugins/CS2-CustomVotes/CS2-CustomVotes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/cs2-executes/executes.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/cs2-executes/executes.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/cs2-retakes/retakes.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/cs2-retakes/retakes.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/gamemodes_server.txt" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/gamemodes_server.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/add-map.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/add-map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/check-updates.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/check-updates.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/get-map-names.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/get-map-names.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/parse-gamemodes.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/parse-gamemodes.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/patch-gameinfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/patch-gameinfo.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="32Hs7RSaZNUp9l6J5C4UIhGhONy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da3fc09-bc4c-4ea3-8c93-20b8f5230088" name="Changes" comment="" />
+      <created>1757088664729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757088664729</updated>
+      <workItem from="1757088665890" duration="1685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
