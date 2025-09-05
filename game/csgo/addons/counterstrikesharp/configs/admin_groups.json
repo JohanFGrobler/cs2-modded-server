@@ -1,4 +1,26 @@
 {
+  "#css/root": {
+    "flags": [
+      "@css/reservation",
+      "@css/generic",
+      "@css/kick",
+      "@css/ban",
+      "@css/unban",
+      "@css/vip",
+      "@css/slay",
+      "@css/changemap",
+      "@css/cvar",
+      "@css/config",
+      "@css/chat",
+      "@css/vote",
+      "@css/password",
+      "@css/rcon",
+      "@css/cheats",
+      "@custom/prac",
+      "@css/root"
+    ],
+    "immunity": 101
+  },
   "#css/admin": {
     "flags": [
       "@css/root",
