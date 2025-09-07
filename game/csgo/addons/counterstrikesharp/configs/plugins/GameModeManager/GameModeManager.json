@@ -118,14 +118,6 @@
     "MapGroupFile": "gamemodes_server.txt",
     "List": [
       {
-        "Name": "Gun Game",
-        "Config": "gg.cfg",
-        "DefaultMap": "ar_pool_day",
-        "MapGroups": [
-          "mg_gg"
-        ]
-      },
-      {
         "Name": "Deathmatch",
         "Config": "deathmatch.cfg",
         "DefaultMap": "de_dust2",
@@ -158,51 +150,11 @@
         ]
       },
       {
-        "Name": "Prefire",
-        "Config": "prefire.cfg",
-        "DefaultMap": "de_inferno",
-        "MapGroups": [
-          "mg_prefire"
-        ]
-      },
-      {
-        "Name": "Retakes",
-        "Config": "retake.cfg",
-        "DefaultMap": "de_dust2",
-        "MapGroups": [
-          "mg_retake"
-        ]
-      },
-      {
-        "Name": "Executes",
-        "Config": "executes.cfg",
-        "DefaultMap": "de_mirage",
-        "MapGroups": [
-          "mg_executes"
-        ]
-      },
-      {
-        "Name": "Awp Only",
-        "Config": "awp.cfg",
-        "DefaultMap": "3142070597",
-        "MapGroups": [
-          "mg_awp"
-        ]
-      },
-      {
         "Name": "1v1 Arenas",
         "Config": "1v1.cfg",
         "DefaultMap": "3070253400",
         "MapGroups": [
           "mg_1v1"
-        ]
-      },
-      {
-        "Name": "Aim",
-        "Config": "aim.cfg",
-        "DefaultMap": "3084291314",
-        "MapGroups": [
-          "mg_aim"
         ]
       },
       {
@@ -230,83 +182,11 @@
         ]
       },
       {
-        "Name": "Capture The Flag",
-        "Config": "ctf.cfg",
-        "DefaultMap": "3555531615",
-        "MapGroups": [
-          "mg_ctf"
-        ]
-      },
-      {
-        "Name": "Hide N Seek",
-        "Config": "hns.cfg",
-        "DefaultMap": "3348038890",
-        "MapGroups": [
-          "mg_hns"
-        ]
-      },
-      {
-        "Name": "Soccer",
-        "Config": "soccer.cfg",
-        "DefaultMap": "3238565662",
-        "MapGroups": [
-          "mg_soccer"
-        ]
-      },
-      {
-        "Name": "Course",
-        "Config": "course.cfg",
-        "DefaultMap": "3070455802",
-        "MapGroups": [
-          "mg_course"
-        ]
-      },
-      {
         "Name": "Deathrun",
         "Config": "deathrun.cfg",
         "DefaultMap": "3164611860",
         "MapGroups": [
           "mg_deathrun"
-        ]
-      },
-      {
-        "Name": "Minigames",
-        "Config": "minigames.cfg",
-        "DefaultMap": "3082120895",
-        "MapGroups": [
-          "mg_minigames"
-        ]
-      },
-      {
-        "Name": "ScoutzKnivez",
-        "Config": "scoutzknivez.cfg",
-        "DefaultMap": "3073929825",
-        "MapGroups": [
-          "mg_scoutzknivez"
-        ]
-      },
-      {
-        "Name": "One In The Chamber",
-        "Config": "oitc.cfg",
-        "DefaultMap": "ar_pool_day",
-        "MapGroups": [
-          "mg_gg"
-        ]
-      },
-      {
-        "Name": "Battle Ball",
-        "Config": "battle.cfg",
-        "DefaultMap": "3280650663",
-        "MapGroups": [
-          "mg_battle"
-        ]
-      },
-      {
-        "Name": "Battle Royale",
-        "Config": "br.cfg",
-        "DefaultMap": "3462095803",
-        "MapGroups": [
-          "mg_battleroyale"
         ]
       },
       {
@@ -316,38 +196,6 @@
         "MapGroups": [
           "mg_active",
           "mg_comp"
-        ]
-      },
-      {
-        "Name": "Casual (1.6)",
-        "Config": "casual-1.6.cfg",
-        "DefaultMap": "3201205818",
-        "MapGroups": [
-          "mg_casual-1.6"
-        ]
-      },
-      {
-        "Name": "Deathmatch (Valve)",
-        "Config": "dm-valve.cfg",
-        "DefaultMap": "de_dust2",
-        "MapGroups": [
-          "mg_dm"
-        ]
-      },
-      {
-        "Name": "Arms Race (Valve)",
-        "Config": "ar.cfg",
-        "DefaultMap": "ar_pool_day",
-        "MapGroups": [
-          "mg_gg"
-        ]
-      },
-      {
-        "Name": "Competitive 45°",
-        "Config": "45.cfg",
-        "DefaultMap": "3276886893",
-        "MapGroups": [
-          "mg_45"
         ]
       }
     ]

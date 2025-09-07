@@ -3,6 +3,26 @@
   "VoteCooldown": 60,
   "ChatPrefix": "[{Green}Server{Default}]",
   "ForceStyle": "none",
-  "CustomVotes": [{}],
+  "CustomVotes": [
+    {
+      "Name": "rtv",
+      "DisplayName": "Rock The Vote",
+      "Description": "Vote to change the map",
+      "Permission": "",
+      "Cooldown": 0,
+      "VoteOptions": [
+        {
+          "Name": "yes",
+          "DisplayName": "Yes",
+          "Description": "Change the map"
+        },
+        {
+          "Name": "no", 
+          "DisplayName": "No",
+          "Description": "Keep current map"
+        }
+      ]
+    }
+  ],
   "ConfigVersion": 2
 }

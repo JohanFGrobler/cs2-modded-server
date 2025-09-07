@@ -1,0 +1,163 @@
+{
+  "use-predefined-config": true,
+  "database-settings": {
+    "host": "localhost",
+    "username": "root",
+    "database": "database",
+    "password": "password",
+    "port": 3306,
+    "sslmode": "preferred",
+    "table-prefix": "",
+    "table-purge-days": 30
+  },
+  "command-settings": {
+    "gun-pref-commands": [
+      "guns",
+      "gunpref",
+      "weaponpref"
+    ],
+    "round-pref-commands": [
+      "rounds",
+      "roundpref"
+    ],
+    "queue-commands": [
+      "queue"
+    ],
+    "afk-commands": [
+      "afk"
+    ],
+    "challenge-commands": [
+      "challenge",
+      "duel"
+    ],
+    "challenge-accept-commands": [
+      "caccept",
+      "capprove"
+    ],
+    "challenge-decline-commands": [
+      "cdecline",
+      "cdeny"
+    ],
+    "center-menu-mode": true,
+    "center-announce-mode": true,
+    "freeze-in-center-menu": true,
+    "show-menu-credits": true
+  },
+  "round-settings": [
+    {
+      "TranslationName": "k4.rounds.rifle",
+      "TeamSize": 1,
+      "PrimaryWeapon": "weapon_ak47",
+      "SecondaryWeapon": "weapon_deagle",
+      "UsePreferredPrimary": false,
+      "PrimaryPreference": null,
+      "UsePreferredSecondary": false,
+      "Armor": true,
+      "Helmet": true,
+      "EnabledByDefault": true,
+      "StripWeapons": true,
+      "GiveKnife": true
+    },
+    {
+      "TranslationName": "k4.rounds.sniper",
+      "TeamSize": 1,
+      "PrimaryWeapon": "weapon_awp",
+      "SecondaryWeapon": "weapon_deagle",
+      "UsePreferredPrimary": false,
+      "PrimaryPreference": null,
+      "UsePreferredSecondary": false,
+      "Armor": true,
+      "Helmet": true,
+      "EnabledByDefault": true,
+      "StripWeapons": true,
+      "GiveKnife": true
+    },
+    {
+      "TranslationName": "k4.rounds.pistol",
+      "TeamSize": 1,
+      "PrimaryWeapon": null,
+      "SecondaryWeapon": "weapon_deagle",
+      "UsePreferredPrimary": false,
+      "PrimaryPreference": null,
+      "UsePreferredSecondary": false,
+      "Armor": false,
+      "Helmet": false,
+      "EnabledByDefault": true,
+      "StripWeapons": true,
+      "GiveKnife": true
+    },
+    {
+      "TranslationName": "k4.rounds.scout",
+      "TeamSize": 1,
+      "PrimaryWeapon": "weapon_ssg08",
+      "SecondaryWeapon": "weapon_deagle",
+      "UsePreferredPrimary": false,
+      "PrimaryPreference": null,
+      "UsePreferredSecondary": false,
+      "Armor": true,
+      "Helmet": true,
+      "EnabledByDefault": true,
+      "StripWeapons": true,
+      "GiveKnife": true
+    },
+    {
+      "TranslationName": "k4.rounds.awp",
+      "TeamSize": 1,
+      "PrimaryWeapon": "weapon_awp",
+      "SecondaryWeapon": "weapon_deagle",
+      "UsePreferredPrimary": false,
+      "PrimaryPreference": null,
+      "UsePreferredSecondary": false,
+      "Armor": true,
+      "Helmet": true,
+      "EnabledByDefault": true,
+      "StripWeapons": true,
+      "GiveKnife": true
+    },
+    {
+      "TranslationName": "k4.rounds.deagle",
+      "TeamSize": 1,
+      "PrimaryWeapon": null,
+      "SecondaryWeapon": "weapon_deagle",
+      "UsePreferredPrimary": false,
+      "PrimaryPreference": null,
+      "UsePreferredSecondary": false,
+      "Armor": false,
+      "Helmet": false,
+      "EnabledByDefault": true,
+      "StripWeapons": true,
+      "GiveKnife": true
+    },
+    {
+      "TranslationName": "k4.rounds.knife",
+      "TeamSize": 1,
+      "PrimaryWeapon": null,
+      "SecondaryWeapon": null,
+      "UsePreferredPrimary": false,
+      "PrimaryPreference": null,
+      "UsePreferredSecondary": false,
+      "Armor": false,
+      "Helmet": false,
+      "EnabledByDefault": true,
+      "StripWeapons": true,
+      "GiveKnife": true
+    }
+  ],
+  "compatibility-settings": {
+    "force-arena-clantags": false,
+    "block-flash-of-not-opponent": false,
+    "block-damage-of-not-opponent": false,
+    "give-knife-by-default": true,
+    "disable-clantags": false
+  },
+  "default-weapon-settings": {
+    "default-rifle": "weapon_ak47",
+    "default-sniper": "weapon_awp",
+    "default-smg": "weapon_mp7",
+    "default-lmg": "weapon_m249",
+    "default-shotgun": "weapon_nova",
+    "default-pistol": "weapon_deagle",
+    "default-round": "k4.rounds.rifle"
+  },
+  "ConfigVersion": 8
+}

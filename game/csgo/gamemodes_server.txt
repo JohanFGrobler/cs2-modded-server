@@ -30,23 +30,7 @@
 						"mg_bhop"			"51"
 						"mg_kz"				"52"
 						"mg_surf"			"53"
-						"mg_minigames"		"54"
-						"mg_scoutzknivez"	"55"
-						"mg_course"			"56"
-						"mg_hns"			"57"
-						"mg_soccer"			"58"
-						"mg_gg"				"59"
-						"mg_awp"			"60"
-						"mg_aim"			"61"
-						"mg_prefire"		"62"
-						"mg_deathrun"		"63"
-						"mg_battleroyale"	"64"
-						"mg_casual-1.6"		"65"
-						"mg_45"				"66"
-						"mg_battle"			"67"
-						"mg_ctf"			"68"
-						"mg_retake"			"69"
-						"mg_executes"		"70"
+						"mg_deathrun"		"54"
 					}
 				}
 
@@ -157,51 +141,6 @@
 			}
 		}
 
-		"mg_retake"
-		{
-			"name"					"mg_retake"
-			"displayname"			"Retakes"
-			"maps"
-			{
-				"de_ancient"	""
-				"de_anubis"		""
-				"de_dust2"		""
-				"de_inferno"	""
-				"de_mirage"		""
-				"de_nuke"		""
-				"de_overpass"	""
-				"de_train"		""
-				"de_vertigo"	""
-			}
-		}
-
-		"mg_prefire"
-		{
-			"name"					"mg_prefire"
-			"displayname"			"Prefire"
-			"maps"
-			{
-				"de_ancient"	""
-				"de_anubis"		""
-				"de_dust2"		""
-				"de_inferno"	""
-				"de_mirage"		""
-				"de_nuke"		""
-				"de_overpass"	""
-				"de_train"		""
-				"de_vertigo"	""
-			}
-		}
-
-		"mg_executes"
-		{
-			"name"					"mg_executes"
-			"displayname"			"Executes"
-			"maps"
-			{
-				"de_mirage"		""
-			}
-		}
 
 		"mg_wingman"
 		{
@@ -262,44 +201,6 @@
 			}
 		}
 
-		"mg_gg"
-		{
-			"name"					"mg_gg"
-			"displayname"			"GunGame"
-			"maps"
-			{
-				"ar_baggage"									""
-				"ar_pool_day"									""
-				"ar_shoots"										""
-				"ar_shoots_night"								""
-				"workshop/3070238628/fy_iceworld"				""
-				"workshop/3070291913/ar_churches_s2r"			""
-				"workshop/3070348309/aim_theorem"				""
-				"workshop/3070550406/de_safehouse"				""
-				"workshop/3070563536/de_lake"					""
-				"workshop/3070581293/de_bank"					""
-				"workshop/3071005299/de_assembly"				""
-				"workshop/3071890065/cs2_bloodstrike"			""
-				"workshop/3072640420/daymare"					""
-				"workshop/3074961197/aim_ag_texture2"			""
-				"workshop/3082113929/aim_ag_texture_city_advanced"	""
-				"workshop/3082605693/1v1aim_map_longdustversion_d"	""
-				"workshop/3086555291/shipment_version_1_0"		""
-				"workshop/3088183343/fun_bounce"				""
-				"workshop/3095778105/aim_ag_texture_jungle"		""
-				"workshop/3109232789/gg_simpsons_vs_flanders_v2"	""
-				"workshop/3134466699/mcdonalds"					""
-				"workshop/3343693110/school_d_environment_prefab"	""
-				"workshop/3345551391/twofort_cs2"				""
-				"workshop/3360723913/paintit"					""
-				"workshop/3386116667/de_ema"					""
-				"workshop/3443206318/speedball"					""
-				"workshop/3460962520/de_rats_remake"			""
-				"workshop/3464733042/de_mirage_bricks"			""
-				"workshop/3267768230/gg_lego_arena"				""
-				"workshop/3535917558/de_indoor"					""
-			}
-		}
 
 		"mg_1v1"
 		{
@@ -308,6 +209,13 @@
 			"maps"
 			{
 				"workshop/3070253400/aim_redline_fp"	""
+				"workshop/3157627939/aim_valerastan"	""
+				"workshop/3074562213/aim_hentai"		""
+				"workshop/3087252010/aim_killerzone"	""
+				"workshop/3155229310/aim_sanok"		""
+				"workshop/3075996446/aim_deagle"		""
+				"workshop/3072052900/aim_awp_hd"		""
+				"workshop/3070290869/awp_india"		""
 			}
 		}
 
@@ -369,35 +277,13 @@
 				"workshop/3129698096/surf_nyx"			""
 				"workshop/3133346713/surf_boreas"		""
 				"workshop/3296258256/surf_whiteout"		""
+				"workshop/3404344161/surf_sundown_njv"	""
+				"workshop/3167714768/surf_cyberwave"		""
+				"workshop/3124208103/surf_gleam"		""
+				"workshop/3097760172/surf_rgb"			""
 			}
 		}
 
-		"mg_minigames"
-		{
-			"name"					"mg_minigames"
-			"displayname"			"Minigames"
-			"maps"
-			{
-				"workshop/3076765511/mg_warmcup_headshot"	""
-				"workshop/3082120895/mg_skeet_multigames_v7"	""
-				"workshop/3202752274/mg_lego_course_2"		""
-			}
-		}
-
-		"mg_battleroyale"
-		{
-			"name"					"mg_battleroyale"
-			"displayname"			"Battle Royale"
-			"maps"
-			{
-				"workshop/3186779271/minecraft"				""
-				"workshop/3240933254/minecraft_hungergame"		""
-				"workshop/3267454508/br_flood"					""
-				"workshop/3297489255/br_stacks"					""
-				"workshop/3330484099/br_electrified"			""
-				"workshop/3462095803/br_t2"						""
-			}
-		}
 
 		"mg_deathrun"
 		{
@@ -412,144 +298,5 @@
 			}
 		}
 
-		"mg_course"
-		{
-			"name"					"mg_course"
-			"displayname"			"Course"
-			"maps"
-			{
-				"workshop/3070434475/mg_circle_course_v3"		""
-				"workshop/3070439729/mg_switch_course_v2"		""
-				"workshop/3070445185/mg_glave_course_v2"		""
-				"workshop/3070447697/mg_simpsons_course_v2"	""
-				"workshop/3070451616/mg_sky_realm_v3"			""
-				"workshop/3070452642/mg_sonic_course_v2"		""
-				"workshop/3070455802/mg_alley_course_v2"		""
-				"workshop/3070459211/mg_office_course_v3"		""
-				"workshop/3070463151/mg_metro_course_v1"		""
-				"workshop/3070463620/mg_acrophobia_run_v2"		""
-				"workshop/3070464208/mg_metal_course_v2"		""
-				"workshop/3070896876/cr_minecraft_jb_v2"		""
-				"workshop/3071040020/mg_metro_course_s2"		""
-				"workshop/3076483842/cr_devisland_p1_v1"		""
-			}
-		}
-
-		"mg_scoutzknivez"
-		{
-			"name"					"mg_scoutzknivez"
-			"displayname"			"Scoutz Knivez"
-			"maps"
-			{
-				"workshop/3070553020/ar_dizzy"				""
-				"workshop/3073929825/scoutzknivez_pure_cs2"	""
-			}
-		}
-
-		"mg_hns"
-		{
-			"name"					"mg_hns"
-			"displayname"			"Hide n Seek"
-			"maps"
-			{
-				"workshop/3287578956/de_mirage_prophunt"	""
-				"workshop/3292648008/de_vertigo_prophunt"	""
-				"workshop/3348038890/de_inferno_prophunt"	""
-				"workshop/3366748499/de_nuke_prophunt"		""
-				"workshop/3382166635/de_overpass_prophunt"	""
-			}
-		}
-
-		"mg_soccer"
-		{
-			"name"					"mg_soccer"
-			"displayname"			"Soccer"
-			"maps"
-			{
-				"workshop/3238565662/field"	""
-			}
-		}
-
-		"mg_awp"
-		{
-			"name"					"mg_awp"
-			"displayname"			"Awp"
-			"maps"
-			{
-				"workshop/3142070597/awp_bhop_rocket"	""
-			}
-		}
-
-		"mg_battle"
-		{
-			"name"					"mg_battle"
-			"displayname"			"Battle Ball"
-			"maps"
-			{
-				"workshop/3280650663/battleball"	""
-			}
-		}
-
-		"mg_aim"
-		{
-			"name"					"mg_aim"
-			"displayname"			"Aim"
-			"maps"
-			{
-				"workshop/3070923343/fy_pool_day"						""
-				"workshop/3075996446/aim_deagle"						""
-				"workshop/3078701726/aim_ak-colt_CS2"					""
-				"workshop/3082605693/1v1aim_map_longdustversion_d"		""
-				"workshop/3084291314/aim_map"							""
-				"workshop/3085962528/aim_usp"							""
-				"workshop/3146122036/freebet_aim_map"					""
-			}
-		}
-
-		"mg_casual-1.6"
-		{
-			"name"					"mg_casual-1.6"
-			"displayname"			"Casual 1.6"
-			"maps"
-			{
-				"workshop/3078095785/de_dust_classic"			""
-				"workshop/3104677430/as_oilrig"				""
-				"workshop/3144773563/cs_militia_classic"		""
-				"workshop/3201205818/de_dust2_classic"			""
-				"workshop/3205793205/de_nuke_classic"			""
-				"workshop/3212419403/cs_italy_classic"			""
-				"workshop/3213800338/de_aztec_classic"			""
-				"workshop/3215705579/cs_assult_classic"		""
-				"workshop/3216844784/cs_office_classic"		""
-				"workshop/3217247541/de_survivor_classic_m"		""
-			}
-		}
-
-		"mg_45"
-		{
-			"name"					"mg_45"
-			"displayname"			"45 degrees"
-			"maps"
-			{
-				"workshop/3245245780/de_nuke_silly"	""
-				"workshop/3245985233/de_anubis_silly"	""
-				"workshop/3270066070/de_overpass_45"	""
-				"workshop/3270516952/de_mirage45"		""
-				"workshop/3276886893/de_vertigo_45"	""
-				"workshop/3406937162/de_train_twyxe"	""
-			}
-		}
-
-		"mg_ctf"
-		{
-			"name"					"mg_ctf"
-			"displayname"			"Capture The Flag"
-			"maps"
-			{
-				"workshop/3555531615/ctf_2fort"			""
-				"workshop/3555532817/ctf_doublecross"	""
-				"workshop/3555534037/ctf_turbine"		""
-			}
-		}
 	}
 }

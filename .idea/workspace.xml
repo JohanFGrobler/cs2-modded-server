@@ -4,23 +4,106 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7da3fc09-bc4c-4ea3-8c93-20b8f5230088" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/docker-image.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_files/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/admin_groups.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/admin_groups.json" afterDir="false" />
+    <list default="true" id="7da3fc09-bc4c-4ea3-8c93-20b8f5230088" name="Changes" comment="improvements">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/addons/counterstrikesharp/configs/admin_groups.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/addons/counterstrikesharp/configs/admins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/addons/counterstrikesharp/plugins/disabled/K4ryuuDamageInfo/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/MatchZy/admins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/MatchZy/config.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/MatchZy/whitelist.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_1v1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_all.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_ar.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_awp.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_battle.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_bhop.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_br.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_comp.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_course.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_ctf.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_deathmatch-valve.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_deathmatch.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_deathrun.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_executes.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_gg.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_hns.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_kz.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_minigames.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_oitc.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_practice.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_prefire.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_retake.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_scoutzknivez.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_soccer.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_surf.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/custom_wingman.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/cfg/multiaddonmanager/multiaddonmanager.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/sv_server_graphic1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_files_example/sv_server_graphic2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/plugins/CS2-CustomVotes/CS2-CustomVotes.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/plugins/CS2-CustomVotes/CS2-CustomVotes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/cs2-executes/executes.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/cs2-executes/executes.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/cs2-retakes/retakes.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/cs2-retakes/retakes.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/plugins/Deathmatch/Deathmatch.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/plugins/Deathmatch/Deathmatch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/plugins/GameModeManager/GameModeManager.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/configs/plugins/GameModeManager/GameModeManager.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/plugins/CS2AnnouncementBroadcaster/cfg/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/addons/counterstrikesharp/plugins/CS2AnnouncementBroadcaster/cfg/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/1v1.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/1v1.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/1v1_settings.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/1v1_settings.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/45.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/ar.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/ar_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/awp.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/awp_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/battle.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/battle_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/bhop_settings.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/bhop_settings.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/bots.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/bots.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/br.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/br_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/course.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/course_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/cs2-executes/executes.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/cs2-retakes/retakes.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/custom_course.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/custom_deathmatch.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/custom_deathmatch.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/deathmatch-valve.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/deathmatch-valve_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/deathmatch.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/deathmatch.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/deathmatch_settings.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/deathmatch_settings.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/executes.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/executes_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gg.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gg_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gungame/gungame.disable_rtv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gungame/gungame.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gungame/gungame.mapvote.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gungame/gungame.warmupend.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gungame/gungame.warmupstart.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gungame/gungame_weapons-small-for-tests.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gungame/gungame_weapons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/gungame/weapons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/kz_settings.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/kz_settings.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/oitc.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/oitc_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/on_boot.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/on_boot.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/prefire.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/prefire_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/retake.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/retake_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/scoutzknivez.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/scoutzknivez_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/server.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/server.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/settings/bots_ar.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/settings/course.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/settings/disable_course.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/settings/disable_course_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/settings/enable_course.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/settings/enable_course_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/settings/map_voting.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/settings/map_voting.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/soccer.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/soccer_settings.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/surf.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/surf.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/csgo/cfg/surf_settings.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/cfg/surf_settings.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game/csgo/gamemodes_server.txt" beforeDir="false" afterPath="$PROJECT_DIR$/game/csgo/gamemodes_server.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/add-map.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/add-map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/check-updates.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/check-updates.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/get-map-names.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/get-map-names.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/parse-gamemodes.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/parse-gamemodes.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/patch-gameinfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/patch-gameinfo.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +113,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="32Hs7RSaZNUp9l6J5C4UIhGhONy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,6 +123,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",

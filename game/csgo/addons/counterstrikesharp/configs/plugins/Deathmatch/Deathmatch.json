@@ -2,10 +2,10 @@
 	"Save Players Weapons": false,
 	"Gameplay Settings": {
 		"Free For All": true,
-		"Custom Modes": true,
+		"Custom Modes": false,
 		"Game Length": 10,
 		"Random Selection Of Modes": false,
-		"Map Start Custom Mode": 0,
+		"Map Start Custom Mode": 4,
 		"New Mode Countdown": 10,
 		"Hud Type": 1,
 		"Default Weapons": 2,
@@ -16,10 +16,10 @@
 		"Spawn Protection Color": ""
 	},
 	"Spawn System": {
-		"Spawns Method": 0,
+		"Spawns Method": 1,
 		"Team Spawns Separation": false,
 		"Check Spawn Visibility": true,
-		"Distance From Enemies": 500
+		"Distance From Enemies": 1000
 	},
 	"General Settings": {
 		"Display Spawns Editor In Menu": true,

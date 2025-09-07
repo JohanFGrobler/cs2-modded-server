@@ -11,25 +11,13 @@ Each game mode has a hand full of maps preset so you are ready to go and it's [e
 - Competitive (using [MatchZy](https://github.com/shobhit-pathak/MatchZy#usage-commands))
 - Practice (record grenade throws etc) (using [MatchZy](https://github.com/shobhit-pathak/MatchZy#usage-commands))
 - Wingman (allows more than 4 players) ([Steam API key](#playing-workshop-mapscollections) required)
-- GunGame ([Steam API key](#playing-workshop-mapscollections) required)
 - Custom Deathmatch ([Steam API key](#playing-workshop-mapscollections) required)
-- Prefire practice
-- Retakes
-- Executes
-- [Capture The Flag](https://www.youtube.com/watch?v=d9Vo8waxBzA) ([Steam API key](#playing-workshop-mapscollections) required)
-- One In The Chamber
 - 1v1 (with arenas) ([Steam API key](#playing-workshop-mapscollections) required)
-- ScoutzKnivez ([Steam API key](#playing-workshop-mapscollections) required)
 - KZ ([Steam API key](#playing-workshop-mapscollections) required)
 - BHop ([Steam API key](#playing-workshop-mapscollections) required)
 - Surf ([Steam API key](#playing-workshop-mapscollections) required)
-- Mini Games ([Steam API key](#playing-workshop-mapscollections) required)
 - Deathrun ([Steam API key](#playing-workshop-mapscollections) required)
-- Course format (tests players with different traps, kz, surf, bhop) ([Steam API key](#playing-workshop-mapscollections) required)
-- Hide n Seek ([Steam API key](#playing-workshop-mapscollections) required)
-- Battle Royale ([Steam API key](#playing-workshop-mapscollections) required)
-- [Soccer](https://www.youtube.com/watch?v=yfltZoMH2Ts) ([Steam API key](#playing-workshop-mapscollections) required)
-- Battle Ball ([Steam API key](#playing-workshop-mapscollections) required)
+- Casual
 
 You can also enable modifiers in game modes from the `!settings` menu in chat i.e. Competitive with random rounds like [NadeKings video](https://www.youtube.com/watch?v=OQQBUFB56Iw).
 
@@ -296,7 +284,7 @@ Players can start a vote to change the game mode by typing `!gamemode` in chat.
 
 <img alt="Vote to change game mode" src="https://github.com/kus/cs2-modded-server/blob/assets/assets/vote-gamemode.png?raw=true&sanitize=true">
 
-You can also start a specific game mode vote by typing `!comp`, `!wingman`, `!dm`, `!gg`, `!1v1`, `!awp`, `!aim`, `!prefire`, `!executes`, `!retake`, `!prac`, `!bhop`, `!kz`, `!surf`, `!minigames`, `!deathrun`, `!course`, `!scoutzknivez`, `!hns`, `!br`, `!soccer`, `!1.6`.
+You can also start a specific game mode vote by typing `!comp`, `!wingman`, `!dm`, `!1v1`, `!prac`, `!bhop`, `!kz`, `!surf`, `!deathrun`.
 
 ### What maps are preconfigured with each mode?
 
